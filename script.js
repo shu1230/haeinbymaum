@@ -254,7 +254,7 @@ document.addEventListener('DOMContentLoaded', () => {
 
                 const nameEl = document.createElement('div');
                 nameEl.classList.add('sender-name');
-                nameEl.textContent = '해인';
+                nameEl.textContent = '핸치치';
                 contentCol.appendChild(nameEl);
 
                 appendBubbleOrReply(contentCol, msg, isFanMsg);
